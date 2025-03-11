@@ -1,0 +1,48 @@
+1.Projektidee:
+
+Dokumentskanner der Sprachen erkennt und uebersetzt.
+Pluspunkt : Audioausgabe und Smartphone app
+
+3. Konzeptpapier und MVP-Planung
+
+    
+    
+3.2MVP (Minimum Viable Product):
+
+    1.Benutzerfreundliche GUI 
+    2. Dokumentskanner der den Format annimmt.
+    3.Konvertierung in text format (string)
+    4.Sprachenerkennung
+    5.Uebersetztung in einer ausgewaehlten Sprache
+    6.text wieder ausgeben -> Layout respektieren
+
+3.3. Potenzielle Herausforderungen
+
+    - Github 
+    - Einigung auf Python Version
+    - Coole GUI Einstellung Selbstkurs
+    - Hohe Bildqualitaet noetig
+    - Sprachenerkennung und korrekte Uebersetztung
+    - Layout in Textausgabe
+    - Rueckkonvertierung/ Konvertierung in beliebiges Format
+
+
+4. Datenaufbereitung und Analyse
+nein
+
+5. Visualisierungen und Bericht
+nein
+
+6. Musts & Don’ts
+
+    Musts:
+        • Saubere Dokumentation des Codes und des Analyseprozesses.
+        • Modulare Struktur (z. B. Funktionen in lib/, Konfigurationen in config/).
+        • Nutzung von Git für Versionskontrolle.
+    Don’ts:
+        • Hardcodierte Pfade und Parameter im Code.
+        • Unstrukturierter, monolithischer Code ohne Kommentare.
+        • Ignorieren von Datenqualitätsproblemen.
+
+
+
